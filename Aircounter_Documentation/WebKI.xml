@@ -1,0 +1,97 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<HelpKI>
+  <HelpKINode Title="Aircounter class">
+    <HelpKINode Title="Aircounter Class" Url="html/daedb098-4b0c-7cd1-f978-0ffb54371681.htm" />
+    <HelpKINode Title="constructor" Url="html/69d0100a-4ab0-d4da-eb2a-090bebd58a1f.htm" />
+    <HelpKINode Title="constructor" Url="html/a526c120-fc62-5a22-6c80-941452397d1b.htm" />
+    <HelpKINode Title="fields" Url="html/4190a9c3-0942-cf71-3433-9c956ce43600.htm" />
+    <HelpKINode Title="methods" Url="html/d48178b6-8887-9238-30cd-543c10f10eb1.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Aircounter namespace" Url="html/789a3847-1226-da8c-ab61-961e8d64a299.htm" />
+  <HelpKINode Title="Aircounter.Aircounter class" Url="html/daedb098-4b0c-7cd1-f978-0ffb54371681.htm" />
+  <HelpKINode Title="Aircounter.Aircounter constructor">
+    <HelpKINode Title="Aircounter Constructor " Url="html/69d0100a-4ab0-d4da-eb2a-090bebd58a1f.htm" />
+    <HelpKINode Title="Aircounter Constructor " Url="html/a526c120-fc62-5a22-6c80-941452397d1b.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Aircounter.Aircounter_Paint method" Url="html/de7adcdc-e1dc-9dc8-51a8-1305c2dd732b.htm" />
+  <HelpKINode Title="Aircounter.Airplane class" Url="html/94cb124d-5688-edbb-62ed-72d4445207d3.htm" />
+  <HelpKINode Title="Aircounter.airplanecount field" Url="html/8b5e82ea-a386-03db-57b6-4a3c67695e45.htm" />
+  <HelpKINode Title="Aircounter.airplanes field" Url="html/43996fe1-9e1a-aeab-029f-6d9928a256d8.htm" />
+  <HelpKINode Title="Aircounter.bitmapArray field" Url="html/741f35c3-5864-f9c6-7ea2-6d6877395cee.htm" />
+  <HelpKINode Title="Aircounter.clicks field" Url="html/73c25c6f-d255-f191-0854-9fae4bb1950a.htm" />
+  <HelpKINode Title="Aircounter.components field" Url="html/0ec14181-06ff-29c9-784c-5c2d758c12a1.htm" />
+  <HelpKINode Title="Aircounter.Dispose method" Url="html/71b2bf1a-a285-a721-cd81-a6e1303d2f4d.htm" />
+  <HelpKINode Title="Aircounter.getrandom field" Url="html/1c4b985c-9fcc-450b-2ff1-95b6d3f75804.htm" />
+  <HelpKINode Title="Aircounter.GetRandomNumber method" Url="html/fe37fa87-828b-ea1f-8e1e-7249b9682ecd.htm" />
+  <HelpKINode Title="Aircounter.InitializeComponent method" Url="html/3a526e7c-0518-6222-2ecd-aa331418f024.htm" />
+  <HelpKINode Title="Aircounter.label1 field" Url="html/9d833da3-2965-2c3a-dc49-72a3e8cf3b03.htm" />
+  <HelpKINode Title="Aircounter.pictureBox1 field" Url="html/aa3bf070-c1d0-e71e-1542-c8f9550379e3.htm" />
+  <HelpKINode Title="Aircounter.pictureBox1_Click method" Url="html/76faf515-5cb8-1dba-3612-4466aca4a2c4.htm" />
+  <HelpKINode Title="Aircounter.pictureBox1_MouseHover method" Url="html/5b2a7988-1c3e-439c-b117-7f25bfd336f3.htm" />
+  <HelpKINode Title="Aircounter.pictureBox1_MouseLeave method" Url="html/5f67e126-acbb-6c09-4a40-c245097a904b.htm" />
+  <HelpKINode Title="Aircounter.pictureBox2 field" Url="html/35e2bf87-780a-463c-dd97-f086239aa8d5.htm" />
+  <HelpKINode Title="Aircounter.pictureBox2_Click method" Url="html/bf460273-89dc-a523-2a2e-dcbdd8c3ab7c.htm" />
+  <HelpKINode Title="Aircounter.pictureBox2_MouseHover method" Url="html/a7d89981-ab02-b25c-f22d-1ab65d4d904d.htm" />
+  <HelpKINode Title="Aircounter.pictureBox2_MouseLeave method" Url="html/f95cebd5-bfbb-1034-cb91-b976d46bc589.htm" />
+  <HelpKINode Title="Aircounter.pictureBox3 field" Url="html/f8e4e44e-bf87-a285-113f-1c1f1befb463.htm" />
+  <HelpKINode Title="Aircounter.pictureBox3_Click method" Url="html/cdef37cc-b431-6944-ec36-fe2572b1f3cd.htm" />
+  <HelpKINode Title="Aircounter.pictureBox3_MouseHover method" Url="html/5fd20e86-e685-22bb-8d3d-624b4c9e3f0e.htm" />
+  <HelpKINode Title="Aircounter.pictureBox3_MouseLeave method" Url="html/9ec5fccc-aee0-29f2-9cdc-3ad74f6d69b0.htm" />
+  <HelpKINode Title="Aircounter.simfinished field" Url="html/18249e17-32eb-df87-6111-825c9e4e1028.htm" />
+  <HelpKINode Title="Aircounter.timerStartingLoop field" Url="html/aa947a20-fe27-ec47-7a49-62cf27cde79d.htm" />
+  <HelpKINode Title="Aircounter.timerStartingLoop_Tick method" Url="html/c7835b84-bb3f-5079-b773-8710f69d6bbc.htm" />
+  <HelpKINode Title="Aircounter.z2 field" Url="html/acc1ef71-9f61-157e-cb5b-ad6c0ec3d634.htm" />
+  <HelpKINode Title="Aircounter.z3 field" Url="html/eebd4c0f-c029-11cc-eb7c-8c3d5ae2ec8f.htm" />
+  <HelpKINode Title="Aircounter._x field" Url="html/9abff958-5c55-9a07-4741-d46fad3b7676.htm" />
+  <HelpKINode Title="Aircounter._x2 field" Url="html/c2840458-cdc4-aae0-48b3-312e444ee697.htm" />
+  <HelpKINode Title="Aircounter._x3 field" Url="html/209356e3-b0aa-9f1f-fcad-585e63fa0412.htm" />
+  <HelpKINode Title="Aircounter._y field" Url="html/0196a0e0-ff56-d27d-342c-602cbc04baa1.htm" />
+  <HelpKINode Title="Aircounter._y2 field" Url="html/a8aecc15-198f-f653-f6fe-377ae2717386.htm" />
+  <HelpKINode Title="Aircounter._y3 field" Url="html/dc17b645-f1c8-325f-7b4d-402252503ccf.htm" />
+  <HelpKINode Title="Aircounter_Paint method" Url="html/de7adcdc-e1dc-9dc8-51a8-1305c2dd732b.htm" />
+  <HelpKINode Title="Airplane class">
+    <HelpKINode Title="Airplane Class" Url="html/94cb124d-5688-edbb-62ed-72d4445207d3.htm" />
+    <HelpKINode Title="constructor" Url="html/dde38e70-2fd1-7758-0870-cc57d8b248cf.htm" />
+    <HelpKINode Title="properties" Url="html/d381eda7-6668-665a-3c1a-62908d4af0aa.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Airplane.Airplane constructor" Url="html/dde38e70-2fd1-7758-0870-cc57d8b248cf.htm" />
+  <HelpKINode Title="Airplane.AirplaneColor property" Url="html/ed71139c-6036-f8ca-15b4-d8ee525e6968.htm" />
+  <HelpKINode Title="Airplane.AirplaneSize property" Url="html/32c4e4dc-7557-205e-8b4a-8b9b5f803247.htm" />
+  <HelpKINode Title="Airplane.AirplaneTrajectory property" Url="html/f850bde5-162f-8ed7-3928-ad6a4b7349c8.htm" />
+  <HelpKINode Title="AirplaneColor property" Url="html/ed71139c-6036-f8ca-15b4-d8ee525e6968.htm" />
+  <HelpKINode Title="airplanecount field" Url="html/8b5e82ea-a386-03db-57b6-4a3c67695e45.htm" />
+  <HelpKINode Title="airplanes field" Url="html/43996fe1-9e1a-aeab-029f-6d9928a256d8.htm" />
+  <HelpKINode Title="AirplaneSize property" Url="html/32c4e4dc-7557-205e-8b4a-8b9b5f803247.htm" />
+  <HelpKINode Title="AirplaneTrajectory property" Url="html/f850bde5-162f-8ed7-3928-ad6a4b7349c8.htm" />
+  <HelpKINode Title="bitmapArray field" Url="html/741f35c3-5864-f9c6-7ea2-6d6877395cee.htm" />
+  <HelpKINode Title="clicks field" Url="html/73c25c6f-d255-f191-0854-9fae4bb1950a.htm" />
+  <HelpKINode Title="components field" Url="html/0ec14181-06ff-29c9-784c-5c2d758c12a1.htm" />
+  <HelpKINode Title="Dispose method" Url="html/71b2bf1a-a285-a721-cd81-a6e1303d2f4d.htm" />
+  <HelpKINode Title="getrandom field" Url="html/1c4b985c-9fcc-450b-2ff1-95b6d3f75804.htm" />
+  <HelpKINode Title="GetRandomNumber method" Url="html/fe37fa87-828b-ea1f-8e1e-7249b9682ecd.htm" />
+  <HelpKINode Title="InitializeComponent method" Url="html/3a526e7c-0518-6222-2ecd-aa331418f024.htm" />
+  <HelpKINode Title="label1 field" Url="html/9d833da3-2965-2c3a-dc49-72a3e8cf3b03.htm" />
+  <HelpKINode Title="pictureBox1 field" Url="html/aa3bf070-c1d0-e71e-1542-c8f9550379e3.htm" />
+  <HelpKINode Title="pictureBox1_Click method" Url="html/76faf515-5cb8-1dba-3612-4466aca4a2c4.htm" />
+  <HelpKINode Title="pictureBox1_MouseHover method" Url="html/5b2a7988-1c3e-439c-b117-7f25bfd336f3.htm" />
+  <HelpKINode Title="pictureBox1_MouseLeave method" Url="html/5f67e126-acbb-6c09-4a40-c245097a904b.htm" />
+  <HelpKINode Title="pictureBox2 field" Url="html/35e2bf87-780a-463c-dd97-f086239aa8d5.htm" />
+  <HelpKINode Title="pictureBox2_Click method" Url="html/bf460273-89dc-a523-2a2e-dcbdd8c3ab7c.htm" />
+  <HelpKINode Title="pictureBox2_MouseHover method" Url="html/a7d89981-ab02-b25c-f22d-1ab65d4d904d.htm" />
+  <HelpKINode Title="pictureBox2_MouseLeave method" Url="html/f95cebd5-bfbb-1034-cb91-b976d46bc589.htm" />
+  <HelpKINode Title="pictureBox3 field" Url="html/f8e4e44e-bf87-a285-113f-1c1f1befb463.htm" />
+  <HelpKINode Title="pictureBox3_Click method" Url="html/cdef37cc-b431-6944-ec36-fe2572b1f3cd.htm" />
+  <HelpKINode Title="pictureBox3_MouseHover method" Url="html/5fd20e86-e685-22bb-8d3d-624b4c9e3f0e.htm" />
+  <HelpKINode Title="pictureBox3_MouseLeave method" Url="html/9ec5fccc-aee0-29f2-9cdc-3ad74f6d69b0.htm" />
+  <HelpKINode Title="simfinished field" Url="html/18249e17-32eb-df87-6111-825c9e4e1028.htm" />
+  <HelpKINode Title="timerStartingLoop field" Url="html/aa947a20-fe27-ec47-7a49-62cf27cde79d.htm" />
+  <HelpKINode Title="timerStartingLoop_Tick method" Url="html/c7835b84-bb3f-5079-b773-8710f69d6bbc.htm" />
+  <HelpKINode Title="z2 field" Url="html/acc1ef71-9f61-157e-cb5b-ad6c0ec3d634.htm" />
+  <HelpKINode Title="z3 field" Url="html/eebd4c0f-c029-11cc-eb7c-8c3d5ae2ec8f.htm" />
+  <HelpKINode Title="_x field" Url="html/9abff958-5c55-9a07-4741-d46fad3b7676.htm" />
+  <HelpKINode Title="_x2 field" Url="html/c2840458-cdc4-aae0-48b3-312e444ee697.htm" />
+  <HelpKINode Title="_x3 field" Url="html/209356e3-b0aa-9f1f-fcad-585e63fa0412.htm" />
+  <HelpKINode Title="_y field" Url="html/0196a0e0-ff56-d27d-342c-602cbc04baa1.htm" />
+  <HelpKINode Title="_y2 field" Url="html/a8aecc15-198f-f653-f6fe-377ae2717386.htm" />
+  <HelpKINode Title="_y3 field" Url="html/dc17b645-f1c8-325f-7b4d-402252503ccf.htm" />
+</HelpKI>
