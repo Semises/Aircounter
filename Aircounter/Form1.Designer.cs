@@ -110,7 +110,6 @@
             this.DoubleBuffered = true;
             this.Name = "Aircounter";
             this.Text = "Aircounter";
-            this.Click += new System.EventHandler(this.Aircounter_Click);
             this.Paint += new System.Windows.Forms.PaintEventHandler(this.Aircounter_Paint);
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox2)).EndInit();
