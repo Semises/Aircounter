@@ -28,7 +28,7 @@ namespace Aircounter
         // Funkcja zapewniająca liczby pseudolosowe
         public static int GetRandomNumber(int min, int max)
         {
-            lock (getrandom) 
+            lock (getrandom)
             {
                 return getrandom.Next(min, max);
             }
@@ -51,7 +51,7 @@ namespace Aircounter
                 };
 
                 // Przypisanie bitmapy w zależności od parametru koloru 
-                switch(airplanes[i].AirplaneColor)
+                switch (airplanes[i].AirplaneColor)
                 {
                     case 1:
                         bitmapArray[i] = new Bitmap("plane_black.png");
@@ -74,9 +74,9 @@ namespace Aircounter
             // Sprawdzenie liczby samolotów odpowiadających obiektowi początkowemu
             for (int i = 1; i < 20; i++)
             {
-                if((airplanes[0].AirplaneSize == airplanes[i].AirplaneSize)&&(airplanes[0].AirplaneColor == airplanes[i].AirplaneColor))
+                if ((airplanes[0].AirplaneSize == airplanes[i].AirplaneSize) && (airplanes[0].AirplaneColor == airplanes[i].AirplaneColor))
                 {
-                    airplanecount++; 
+                    airplanecount++;
                 }
             }
 
@@ -90,26 +90,26 @@ namespace Aircounter
             _y3 = 140;
             simfinished = false;
 
-            
+
 
             InitializeComponent();
         }
 
         private void Aircounter_Paint(object sender, PaintEventArgs e)
         {
-            
+
             // Ustalenie warunków symulacji w zależności od położenia obiektów
             if (_x < 1000)
             {
                 e.Graphics.DrawImage(bitmapArray[0], _x, _y, airplanes[0].AirplaneSize * 25, airplanes[0].AirplaneSize * 25);
             }
 
-            if ((_x2 < 1000)&&(z2 <= 18))
+            if ((_x2 < 1000) && (z2 <= 18))
             {
                 e.Graphics.DrawImage(bitmapArray[z2], _x2, (_y2 + 60 * airplanes[z2].AirplaneTrajectory), airplanes[z2].AirplaneSize * 25, airplanes[z2].AirplaneSize * 25);
             }
 
-            if ((_x3 < 1000)&&(z3 <= 19))
+            if ((_x3 < 1000) && (z3 <= 19))
             {
                 e.Graphics.DrawImage(bitmapArray[z3], _x3, (_y3 + 60 * airplanes[z3].AirplaneTrajectory), airplanes[z3].AirplaneSize * 25, airplanes[z3].AirplaneSize * 25);
             }
@@ -118,7 +118,7 @@ namespace Aircounter
             {
                 _x2 = -50;
                 z2 = z2 + 2;
-    
+
             }
 
             if (_x3 >= 1000)
@@ -134,9 +134,9 @@ namespace Aircounter
 
             if (simfinished)
             {
-                string message; 
+                string message;
 
-                if(airplanecount == clicks)
+                if (airplanecount == clicks)
                 {
                     message = "Gratulację! Udało się podliczyć samoloty prawidłowo!";
                     SolidBrush s = new SolidBrush(Color.Green);
@@ -159,7 +159,7 @@ namespace Aircounter
 
         }
 
-        
+
 
         private void timerStartingLoop_Tick(object sender, EventArgs e)
         {
@@ -183,7 +183,7 @@ namespace Aircounter
                 _x3 += 25;
             }
 
-           
+
 
             Invalidate();
         }
@@ -191,14 +191,6 @@ namespace Aircounter
         private void Aircounter_Click(object sender, EventArgs e)
         {
 
-           /* double f = airplanecount;
-            string sss = f.ToString("R");
-            SolidBrush s = new SolidBrush(Color.Yellow);
-            Graphics g = CreateGraphics();
-            FontFamily ff = new FontFamily("Courier New");
-            System.Drawing.Font font = new System.Drawing.Font(ff, 50, FontStyle.Regular);
-            g.DrawString( sss, font, s, new PointF(20, 20)); */
-            
         }
 
         // Prosta animacja i funkcjonalności przycisków dostępnych w ramach gameplayu
